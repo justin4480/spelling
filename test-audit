@@ -1,0 +1,66 @@
+2022.01.29 @ ??:??
+
+look cover write check
+------------------------------------
+       answer       guess    results
+------------------------------------
+0    argument    argumant  incorrect
+1   enjoyment   enjoyment  Correct
+2   merriment   merriment  Correct
+3  employment  employment  Correct
+4     payment     payment  Correct
+5        word        word  Correct
+6        work        work  Correct
+7        worm        worm  Correct
+8       world       world  Correct
+9       worth       worth  Correct
+
+speak write check
+------------------------------------
+       answer       guess    results
+------------------------------------
+0    argument    argument    correct
+1   enjoyment    injoment  incorrect
+2   merriment   merriment    correct
+3  employment  enployment  incorrect
+4     payment     payment    correct
+5        word        ward  incorrect
+6        work        work    correct
+7        worm       world  incorrect
+8       world       world    correct
+9       worth       worth    correct
+
+
+2022.01.30 @ 15:20
+
+look cover write check
+------------------------------------
+       answer       guess    results
+------------------------------------
+       answer       guess  results
+0    argument    argument  Correct
+1   enjoyment   enjoyment  Correct
+2   merriment   merriment  Correct
+3  employment  employment  Correct
+4     payment     payment  Correct
+5        word        word  Correct
+6        work        work  Correct
+7        worm        worm  Correct
+8       world       world  Correct
+9       worth       worth  Correct
+
+speak write check
+------------------------------------
+       answer       guess    results
+------------------------------------
+       answer       guess    results
+0    argument    argument    Correct
+1   enjoyment   enjoyment    Correct
+2   merriment   merrament  Incorrect
+3  employment  enployment  Incorrect
+4     payment     payment    Correct
+5        word        word    Correct
+6        work        work    Correct
+7        worm        worm    Correct
+8       world       world    Correct
+9       worth       worth    Correct

@@ -1,0 +1,13 @@
+Remove at groups by default 
+Add insertby an insertdt to all entries
+Prevent duplicate words
+Consider collapsing word groups into words table
+At duration to test
+Report what to include matplotlib and seaborn
+Add group words becomes add words, asks for groupname and checks for duplicate name and subsequent words
+
+Word games Hangman
+Word game Jumble
+Score board
+
+Hangman alphabet guesses
